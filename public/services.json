@@ -1,44 +1,50 @@
 [
   {
-    "name": "Replace Tire,",
+    "name": "Engine Diagnostic",
     "price": 2000,
     "time": 2,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 1
+    "img": "https://i.ibb.co/KqNSY8v/image6.jpg",
+    "id": 1,
+    "description": "An Auto Mechanic fixes vehicles and replaces their parts for customers. Their duties include repairing the vehicle's mechanical components, diagnosing problems with cars/ trucks and performing maintenance work on them as well."
   },
   {
-    "name": "Replace Tire,",
+    "name": "Wheel Alignment",
     "price": 2500,
     "time": 3,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 2
+    "img": "https://i.ibb.co/Kswv8Ff/image5.jpg",
+    "id": 2,
+    "description": "Auto Mechanics work with other staff in the repair department or automobile dealership to complete necessary repairs. Typically, Auto Mechanics report to a lead mechanic who works directly with customers, but sometimes Auto Mechanics need to communicate with customers before, during and after repairs are completed."
   },
   {
-    "name": "Replace Tire,",
+    "name": "Oil Changing",
     "price": 2900,
     "time": 4,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 3
+    "img": "https://i.ibb.co/y6V1rKw/image4.jpg",
+    "id": 3,
+    "description": "A good Auto Mechanic is someone who is trustworthy, honest and knows how to solve problems quickly. These mechanics know how to run diagnostics to understand an issue with a vehicle, and they know how to communicate with customers clearly and concisely."
   },
   {
-    "name": "Replace Tire,",
+    "name": "Replace Tire",
     "price": 3000,
     "time": 5,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 4
+    "img": "https://i.ibb.co/gFZDG8z/image3.jpg",
+    "id": 4,
+    "description": "Auto Mechanics provide repairs to customer vehicles when brought into the repair shop. Auto Mechanics work on everything from engines, to belts, to transmissions, to brakes."
   },
   {
-    "name": "Replace Tire,",
+    "name": "Staring change",
     "price": 2700,
     "time": 6,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 5
+    "img": "https://i.ibb.co/gwkM5kV/image1.jpg",
+    "id": 5,
+    "description": "We are looking for a skilled Auto Mechanic to maintain and repair vehicles. You will be responsible for troubleshooting issues and fixing them aiming to maximum reliability and functionality.  "
   },
   {
-    "name": "Replace Tire,",
+    "name": "Bad change",
     "price": 2010,
     "time": 7,
-    "img": "https://ibb.co/J2DRfDQ",
-    "id": 6
+    "img": "https://i.ibb.co/2ypcFP2/image2.jpg",
+    "id": 6,
+    "description": "An Auto Mechanic is the backbone of every dealership. They inspect and maintain cars and perform oil changes for their customers to make sure they run smoothly."
   }
 ]
